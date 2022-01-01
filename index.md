@@ -1,4 +1,4 @@
-# Student-Management-System
+# Student Management System
 GUI Application based on tkinter and pymysql in python
 
 Allows the user to perform add, update and delete operations on Student Records 
